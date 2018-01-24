@@ -1,0 +1,47 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href = '{% static "css/main.css" %}'>
+	<script src='{% static "javascript/main.js" %}'></script>
+</head>
+
+<body class="body">
+
+<!-- 	This is the header-->	
+
+	<header class="mainHeader">
+		<a href="{% url 'home' %}"><img src="{% static 'images/legendlogo.jpeg' %}" /></a>
+		<nav>
+			<ul>
+				<li><a href="{% url 'addcomputer' %}">Add Computer</a></li>
+				<li><a href="{% url 'viewcomputer' %}">View Computer</a></li>
+				<li id="input1"><input type='text' id="myinput" placeholder='Search'/></li>
+                <li id="search1"><button type='submit' onclick="myFunction()">Search</button></li>
+			</ul>
+		</nav>
+	</header>
+
+	{% block content %}
+	{% endblock %}
+	{% block adding %}
+	{% endblock %}
+	{% block result %}
+	{% endblock %}
+	<!-- <aside class="bottomsidebar">
+		<article>
+			<h2>OS Version</h2>
+			<p>The numer of computers having a specific OS version</p>
+		</article>
+	</aside> -->
+
+	<footer class="mainFooter">
+		<p>Copyright &copy: 2018 <a href="http://legend3d.com/" target="_blank" >legend3d.com</a></p>
+	</footer>
+
+</body>
+
+
+</html>

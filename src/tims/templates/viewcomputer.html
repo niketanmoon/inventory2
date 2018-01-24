@@ -1,0 +1,43 @@
+
+{% extends 'base.html' %}
+
+{% block result %}
+<!-- <form method='GET' action=''>
+<input type='text' name='q' placeholder='Search IP' value="{{ request.GET.q }}"/>
+<input type='submit' value='Search' />
+</form> -->
+
+
+
+<table align="center" id="mytable">
+	<tr id="tableHeader"><td id="header" colspan="9"><h1>Computer Inventory</h1></td></tr>
+	<tr id="tableHeader1">
+		<th>IP Address</th>
+		<th>Serial Key</th>
+		<th>Host Name</th>
+		<th>Brand Name</th>
+		<th>Os Name</th>
+		<th>Processor</th>
+		<th>Ram</th>
+		<th>External Storage</th>
+		<th>Location</th>
+	</tr>
+
+	{% for comp in posts %}
+	<tr>
+	<td>
+	 {{ comp.ip_address }}
+	</td>
+	<td> {{ comp.SerialKey }}</td>
+	<td>{{ comp.HostName }}</td>
+	<td>{{ comp.BrandName }}</td>
+	<td>{{ comp.OsName }}</td>
+	<td>{{ comp.Processor }}</td>
+	<td>{{ comp.Ram }}</td>
+	<td>{{ comp.ExternalStorage }}</td>
+	<td>{{ comp.Location }}</td>
+
+	<tr/>
+	{% endfor %}
+</table>
+{% endblock %}

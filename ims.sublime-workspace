@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"add",
+				"addcomputer"
+			],
+			[
+				"addc",
+				"addcomputerForm"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"view",
+				"viewcomputer"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"pr",
+				"profileAdmin"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"asser",
+				"assertQuerysetEqual"
+			],
+			[
+				"ques",
+				"question_text"
+			],
+			[
+				"old",
+				"test_was_published_recently_with_old_question"
+			],
+			[
+				"question",
+				"question_id"
+			],
+			[
+				"p",
+				"progress\tTag"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/romeroe/DjangoProjects/ims/src/tims/templates/base.html",
+		"/C/Users/romeroe/DjangoProjects/ims/src/tims/templates/viewcomputer.html",
+		"/C/Users/romeroe/DjangoProjects/ims/src/tims/models.py",
+		"/C/Users/romeroe/DjangoProjects/ims/src/tims/templates/addcomputer.html",
+		"/C/Users/romeroe/DjangoProjects/ims/static/static/css/main.css",
+		"/C/Users/romeroe/DjangoProjects/ims/src/tims/views.py",
+		"/C/Users/romeroe/DjangoProjects/ims/src/tims/templates/addsuccess.html",
+		"/C/Users/romeroe/DjangoProjects/ims/src/tims/admin.py",
+		"/C/Users/romeroe/DjangoProjects/ims/src/tims/forms.py",
+		"/C/Users/romeroe/DjangoProjects/ims/src/inventory/urls.py",
+		"/C/Users/romeroe/DjangoProjects/ims/src/tims/templates/home.html",
+		"/C/Users/romeroe/DjangoProjects/ims/src/inventory/settings.py",
+		"/C/Users/romeroe/DjangoProjects/vecom/src/ecomsite/settings.py",
+		"/C/Users/romeroe/DjangoProjects/vecom/static/static/css/main.css",
+		"/C/Users/romeroe/DjangoProjects/vecom/src/profiles/templates/home.html",
+		"/C/Users/romeroe/DjangoProjects/vecom/src/profiles/templates/about.html",
+		"/C/Users/romeroe/DjangoProjects/vecom/src/profiles/templates/base.html",
+		"/C/Users/romeroe/DjangoProjects/vecom/src/profiles/templates/navbar.html",
+		"/C/Users/romeroe/DjangoProjects/vecom/src/profiles/admin.py",
+		"/C/Users/romeroe/DjangoProjects/vecom/src/ecomsite/urls.py",
+		"/C/Users/romeroe/DjangoProjects/vecom/src/contact/views.py",
+		"/C/Users/romeroe/DjangoProjects/vecom/src/contact/templates/contact.html",
+		"/C/Users/romeroe/DjangoProjects/vecom/src/profiles/views.py",
+		"/C/Users/romeroe/DjangoProjects/vecom/src/profiles/models.py",
+		"/C/Users/romeroe/DjangoProjects/mysite/polls/admin.py",
+		"/C/Users/romeroe/DjangoProjects/mysite/polls/models.py",
+		"/C/Users/romeroe/DjangoProjects/mysite/mysite/settings.py",
+		"/C/Users/romeroe/DjangoProjects/mysite/mysite/urls.py",
+		"/C/Users/romeroe/DjangoProjects/mysite/polls/urls.py",
+		"/C/Users/romeroe/DjangoProjects/mysite/templates/admin/base_site.html",
+		"/C/Users/romeroe/DjangoProjects/mysite/polls/templates/polls/index.html",
+		"/C/Users/romeroe/DjangoProjects/mysite/polls/templates/polls/detail.html",
+		"/C/Users/romeroe/DjangoProjects/mysite/polls/templates/polls/results.html",
+		"/C/Users/romeroe/DjangoProjects/mysite/polls/static/polls/style.css",
+		"/C/Users/romeroe/DjangoProjects/mysite/polls/tests.py",
+		"/C/Users/romeroe/DjangoProjects/mysite/polls/views.py",
+		"/C/Users/romeroe/Envs/imsystem/src/firstdjango/settings.py",
+		"/C/Users/romeroe/Envs/trydjango/src/templates/base.html",
+		"/C/Users/romeroe/Envs/trydjango/src/restaurant/views.py",
+		"/C/Users/romeroe/Envs/trydjango/src/muypicky/settings/production.py",
+		"/C/Users/romeroe/Envs/trydjango/src/muypicky/settings/base.py",
+		"/C/Users/romeroe/Envs/trydjango/src/muypicky/settings/__init__.py",
+		"/C/Users/romeroe/Envs/trydjango/src/muypicky/settings/local.py",
+		"/C/Users/romeroe/Envs/trydjango/src/muypicky/urls.py",
+		"/C/Users/romeroe/prog.html",
+		"/C/Users/romeroe/Envs/trydjango/src/restaurant/forms.py",
+		"/C/Users/romeroe/Envs/imsystem/Lib/site-packages/django/urls/conf.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ims.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
